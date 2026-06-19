@@ -1,7 +1,0 @@
-{
-  "/page": "app/page.js",
-  "/produit/[slug]/page": "app/produit/[slug]/page.js",
-  "/admin/1962026/page": "app/admin/1962026/page.js",
-  "/panier/page": "app/panier/page.js",
-  "/contact/page": "app/contact/page.js"
-}
